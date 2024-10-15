@@ -1,0 +1,9 @@
+# ======================
+# Git Wrap package definition
+# ======================
+[wrap-git]
+url = https://github.com/fossillogic/fossil-strings.git
+revision = v0.1.0
+
+[provide]
+fossil-strings = fossil_strings_dep
